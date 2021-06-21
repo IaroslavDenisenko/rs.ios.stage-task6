@@ -20,6 +20,9 @@
   },
   "testTargets" : [
     {
+      "skippedTests" : [
+        "GameTest"
+      ],
       "target" : {
         "containerPath" : "container:ios.stage-task.xcodeproj",
         "identifier" : "8273B53A2668FDF200717D50",
